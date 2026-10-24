@@ -1,0 +1,10 @@
+{
+  "TR_VISION_URL": "https://api.deepseek.com/chat/completions",
+  "TR_VISION_MODEL": "deepseek-flash",
+  "TR_TRANSLATION_URL": "https://api.deepseek.com/v1",
+  "TR_TRANSLATION_MODEL": "deepseek-chat",
+  "TR_YOLO_WEIGHTS": "models/doclayout_yolo_docstructbench_imgsz1024.pt",
+  "TR_CACHE_DIR": ".cache",
+  "TR_GEOMETRY": "1",
+  "TR_DEFINITION_LINES": "1"
+}

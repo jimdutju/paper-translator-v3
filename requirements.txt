@@ -1,0 +1,4 @@
+pymupdf>=1.25.2,<1.29
+numpy>=1.26,<3
+PyYAML>=6,<7
+doclayout-yolo>=0.0.3,<0.1
